@@ -1,0 +1,12 @@
+***************seeker Tool******************
+open the terminal
+then we to go to location of seeker  
+and run the command python3 seeker.py
+then we use near you by pressing 0
+now open new terminal
+then go to Downloads 
+then run the command ./ngrok http here_your_seeker_port_no
+now you can see the link....
+now you are ready to go...
+Now you can share the link and told to allow the permission 
+Now Everything is done
