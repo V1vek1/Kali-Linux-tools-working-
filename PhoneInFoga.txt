@@ -1,0 +1,12 @@
+Iski Help se hum kisi ke Mobile Number ko scan karke uski details Nikal sakte h 
+
+Installation Process of PhoneInFoga:-
+1. Go to the Phoneinfoga Github 
+2. Then Copy the code link 
+3. Open Kali Linux terminal/ Directory where you want to install Phoneinfoga
+4. Type git clone https://github.com/UltimateHackers/PhoneInfoga.git
+5. Press Enter Key
+6. After cloning, navigate into the directory using cd PhoneInfoga-master/
+7. Run python setup.py install
+8. Now run phoneinfoga from anywhere in your system by typing phoneinfoga or pigeonhole
+9. Enjoy!

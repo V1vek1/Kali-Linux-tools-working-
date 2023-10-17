@@ -1,0 +1,19 @@
+***********How to install CamPhish****************
+Camphish is a kali linux tool which is gain the access the victim camera 
+and take a picture of the person..
+
+go to browser 
+search Camphish
+copy the link from github 
+open terminal in kali take super permission by command sudo su
+then got to Downloads folder and install CamPhish
+git clone https://github.com/techchipnet/CamPhish.git
+after that open the CamPhish folder by command cd CamPhish
+then run thsi command:-
+sudo bash camphish.sh  
+select 1 for ngrok
+then select kariye jiske jariye aap camera access lena chate here_your_seeker_port_no (1,2,3) me se
+auth token change nahi karenge issiliye n(no) press karenge
+agar auth token mangta h to mere pass h hum de denge
+phir hamre pass link aa jayegi jiske jariye hum hack karenge camera
+done
